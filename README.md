@@ -45,7 +45,7 @@ Windows may show *"Windows protected your PC"* for a new app. Click **More info 
 | | Free | Premium |
 |---|---|---|
 | Daily reward features | ✓ | ✓ |
-| Bot time | 3 hours per game day | Unlimited |
+| Bot time | 2 hours per game day | Unlimited |
 | Accounts at once | 1 | More |
 | Builder and research kept busy | | ✓ |
 | Growth and combat features | | ✓ |
@@ -54,7 +54,7 @@ Windows may show *"Windows protected your PC"* for a new app. Click **More info 
 
 **Is there a bot to play Kingshot?** Yes. Phantom is a Kingshot bot for Windows PC. It plays Kingshot inside BlueStacks: it claims daily rewards, runs Conquest and Intel missions, upgrades heroes and follows the chapter quests.
 
-**Is this Kingshot bot free?** Yes. The free plan never expires: it runs the daily reward features for up to 3 hours of bot time per game day.
+**Is this Kingshot bot free?** Yes. The free plan never expires: it runs the daily reward features for up to 2 hours of bot time per game day.
 
 **What are the system requirements?** Windows 10 or 11 and BlueStacks 5 with ADB turned on. Each account runs in its own BlueStacks instance, so more accounts need more RAM.
 
