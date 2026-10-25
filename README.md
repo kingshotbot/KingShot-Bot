@@ -4,7 +4,7 @@
 
 <!-- Add a screenshot of the app here: ![Phantom Kingshot bot dashboard](docs/screenshot-home.png) -->
 
-**[⬇ Download the latest version](../../releases/latest)** · Windows 10/11 · Free plan included · [Website](https://kingshotbot.github.io/) · [Discord](https://discord.gg/7REY6Ur49)
+**[⬇ Download Phantom 0.9.0 beta](https://github.com/kingshotbot/KingShot-Bot/releases/download/v0.9.0-beta/Phantom_Setup_v0.9.0-beta.exe)** · Windows 10/11 · Free plan included · [Website](https://kingshotbot.github.io/) · [Discord](https://discord.gg/7REY6Ur49)
 
 ---
 
