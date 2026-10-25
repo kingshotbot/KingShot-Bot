@@ -40,21 +40,27 @@ New features are added regularly. See the [changelog](../../releases).
 
 Windows may show *"Windows protected your PC"* for a new app. Click **More info → Run anyway**.
 
-## Free and premium
+## Plans
 
-| | Free | Premium |
-|---|---|---|
-| Daily reward features | ✓ | ✓ |
-| Bot time | 3 hours per game day | Unlimited |
-| Accounts at once | 1 | More |
-| Builder and research kept busy | | ✓ |
-| Growth and combat features | | ✓ |
+Every new PC starts with a **15-day free trial**: Pro features, 3 hours of bot time a day (it needs the internet to start; no card or account).
+
+| | Free | Pro | Pro Max |
+|---|---|---|---|
+| Price | $0 | $8.49 a month or $89.99 a year | $19.99 a month or $199.99 a year |
+| Bot time | 1 hour per game day | All day | All day |
+| Daily reward features | ✓ | ✓ | ✓ |
+| Builder, research, troops, gathering, Conquest, heroes, events | | ✓ | ✓ |
+| Skip Tutorial (plays a new character's tutorial up to Town Center 5) | | $2.99 add-on | ✓ |
+| Game characters | | 5 | 10 |
+| Emulators at once | 1 | 2 | 6 |
+
+Also: a 7-day Pro pass for $2.99, and extra characters for $3.99 a month. Beta founder price: buy during the beta and keep the price while you stay subscribed. To buy, ask on [Discord](https://discord.gg/7REY6Ur49): you get a licence key to paste on the app's Plan page.
 
 ## FAQ
 
 **Is there a bot to play Kingshot?** Yes. Phantom is a Kingshot bot for Windows PC. It plays Kingshot inside BlueStacks: it claims daily rewards, runs Conquest and Intel missions, upgrades heroes and follows the chapter quests.
 
-**Is this Kingshot bot free?** Yes. The free plan never expires: it runs the daily reward features for up to 3 hours of bot time per game day.
+**Is this Kingshot bot free?** Yes. Every new PC gets a 15-day trial with Pro features (3 hours a day). After it, the free plan never expires: it runs the daily reward features for 1 hour of bot time per game day.
 
 **What are the system requirements?** Windows 10 or 11 and BlueStacks 5 with ADB turned on. Each account runs in its own BlueStacks instance, so more accounts need more RAM.
 
