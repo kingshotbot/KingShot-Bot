@@ -4,9 +4,9 @@
 
 <!-- Add a screenshot of the app here: ![Phantom Kingshot bot dashboard](docs/screenshot-home.png) -->
 
-**[⬇ Download Phantom 0.9.0 beta](https://github.com/kingshotbot/KingShot-Bot/releases/download/v0.9.0-beta/Phantom_Setup_v0.9.0-beta.exe)** · Windows 10/11 · Free plan included · [Website](https://kingshotbot.github.io/) · [Discord](https://discord.gg/yf3cakZgK)
+**[⬇ Download Phantom 0.9.0 beta](https://github.com/kingshotbot/KingShot-Bot/releases/download/v0.9.0-beta/Phantom_Setup_v0.9.0-beta.exe)** · Windows 10/11 · Free plan included · [Website](https://kingshotbot.github.io/) · [Discord](https://discord.gg/tcXqgw353a)
 
-💬 [Join the Discord](https://discord.gg/yf3cakZgK) for help and licence keys · ▶ [Setup video (5 min)](https://youtu.be/7RERFTXxw68) · [YouTube channel](https://www.youtube.com/@phantombots20)
+💬 [Join the Discord](https://discord.gg/tcXqgw353a) for help and licence keys · ▶ [Setup video (5 min)](https://youtu.be/7RERFTXxw68) · [YouTube channel](https://www.youtube.com/@phantombots20)
 
 ---
 
@@ -56,7 +56,7 @@ Every new PC starts with a **15-day free trial**: Pro features, 3 hours of bot t
 | Game characters | | 5 | 10 |
 | Emulators at once | 1 | 2 | 6 |
 
-Also: a 7-day Pro pass for $2.99, and extra characters for $3.99 a month. Beta founder price: buy during the beta and keep the price while you stay subscribed. To buy, ask on [Discord](https://discord.gg/yf3cakZgK): you get a licence key to paste on the app's Plan page.
+Also: a 7-day Pro pass for $2.99, and extra characters for $3.99 a month. Beta founder price: buy during the beta and keep the price while you stay subscribed. To buy, ask on [Discord](https://discord.gg/tcXqgw353a): you get a licence key to paste on the app's Plan page.
 
 ## FAQ
 
@@ -78,7 +78,7 @@ Also: a 7-day Pro pass for $2.99, and extra characters for $3.99 a month. Beta f
 
 ## Support
 
-Questions, help and updates: join the [Phantom Discord server](https://discord.gg/yf3cakZgK). Bug reports: use **Report** in the tray menu to export a zip of logs and screenshots, then share it on Discord or [open an issue](../../issues).
+Questions, help and updates: join the [Phantom Discord server](https://discord.gg/tcXqgw353a). Bug reports: use **Report** in the tray menu to export a zip of logs and screenshots, then share it on Discord or [open an issue](../../issues).
 
 ---
 
