@@ -4,7 +4,7 @@
 
 <!-- Add a screenshot of the app here: ![Phantom Kingshot bot dashboard](docs/screenshot-home.png) -->
 
-**[⬇ Download Phantom 0.9.0 beta](https://github.com/kingshotbot/KingShot-Bot/releases/download/v0.9.0-beta/Phantom_Setup_v0.9.0-beta.exe)** · Windows 10/11 · Free plan included · [Website](https://kingshotbot.github.io/) · [Discord](https://discord.gg/tcXqgw353a)
+**[⬇ Download Phantom 0.9.1 beta](https://github.com/kingshotbot/KingShot-Bot/releases/download/v0.9.1-beta/Phantom_Setup_v0.9.1-beta.exe)** · Windows 10/11 · Free plan included · [Website](https://kingshotbot.github.io/) · [Discord](https://discord.gg/tcXqgw353a)
 
 💬 [Join the Discord](https://discord.gg/tcXqgw353a) for help and licence keys · ▶ [Setup video (5 min)](https://youtu.be/7RERFTXxw68) · [YouTube channel](https://www.youtube.com/@phantombots20)
 
@@ -36,7 +36,7 @@ New features are added regularly. See the [changelog](../../releases).
 
 1. Install **BlueStacks 5** and **Kingshot** from the Play Store inside it.
 2. In BlueStacks: *Settings → Advanced → Android Debug Bridge (ADB)*: turn it **on**.
-3. Download **[Phantom_Setup_v0.9.0-beta.exe](https://github.com/kingshotbot/KingShot-Bot/releases/download/v0.9.0-beta/Phantom_Setup_v0.9.0-beta.exe)** and run it. No administrator rights are needed.
+3. Download **[Phantom_Setup_v0.9.1-beta.exe](https://github.com/kingshotbot/KingShot-Bot/releases/download/v0.9.1-beta/Phantom_Setup_v0.9.1-beta.exe)** and run it. No administrator rights are needed.
 4. Open Phantom, click **+ Connect Account**, pick your BlueStacks instance and save.
 5. Click **Connect** to check the connection (no automation yet), choose your features, then **Start**.
 
